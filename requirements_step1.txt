@@ -1,0 +1,35 @@
+# Core Dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-google-genai>=0.0.6
+langchain-community>=0.0.20
+langchain-text-splitters>=0.0.1
+
+# Supabase
+supabase>=2.0.0
+vecs>=0.4.0
+
+# Google Gemini
+google-generativeai>=0.3.0
+
+# Document Processing
+pypdf>=3.17.0
+python-magic-bin>=0.4.14; platform_system == "Windows"
+python-magic>=0.4.27; platform_system != "Windows"
+
+# Vector Store
+numpy>=1.24.0
+
+# HTTP & Requests
+requests>=2.31.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# API Framework
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.0.0
+
+# Utilities
+tqdm>=4.66.0  # Progress bars
