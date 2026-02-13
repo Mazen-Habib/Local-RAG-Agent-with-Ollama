@@ -79,8 +79,8 @@ PDFs → Document Chunks → Vector Embeddings → Supabase Storage
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-agent.git
-cd rag-agent
+git clone https://github.com/YOUR_USERNAME/Local-RAG-Agent-with-Ollama.git
+cd Local-RAG-Agent-with-Ollama
 ```
 
 ### 2. Create Virtual Environment
@@ -171,7 +171,7 @@ python rag_agent_ollama.py
 ## 📁 Project Structure
 
 ```
-rag-agent/
+Local-RAG-Agent-with-Ollama/
 │
 ├── 📚 STEP 1: RAG Agent
 │   ├── config.py                 # Configuration & settings
